@@ -1,6 +1,5 @@
 # Public API Requests
 
-
 ## Known Issues
 
 ## Roadmap
