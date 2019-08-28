@@ -92,6 +92,9 @@ function displayCards(allData) {
                 // remove current modal-container and click on next div sibling
                 getModalContainer.remove();
                 siblingOfGalleryCard.click();
+                if (siblingOfGalleryCard === null) {
+                    console.log('it null');
+                }
             });
         }); // end galleryCards event listener
     }); // end allData.map function

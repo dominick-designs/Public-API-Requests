@@ -5,4 +5,6 @@ This app is fifth project (out of 10) of the [Treehouse Fullstack Javascript tec
 
 ## Known Issues
 
+* clicking PREVIOUS when navigating modals when there is not a previous sibling results in ```Uncaught TypeError: siblingOfGalleryCard.click is not a function```
+* clicking NEXT when navigating modals when there is not a next sibling results in ```Uncaught TypeError: Cannot read property 'click' of null```
 ## Roadmap
