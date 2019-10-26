@@ -1,6 +1,6 @@
 # Public API Requests
 
-* [VIEW LIVE DEMO HERE](https://dominick-designs.github.io/Public-API-Requests/)
+* [VIEW LIVE DEMO HERE](https://public-api-requests.dominickdesigns.space/)
 
 * fetch data from remote URL (mock employee data)
 * display data from remote URL
