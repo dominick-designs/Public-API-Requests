@@ -1,6 +1,6 @@
 # Public API Requests
 
-* [VIEW LIVE DEMO HERE](https://public-api-requests.dominickdesigns.space/)
+* [VIEW LIVE DEMO HERE](https://vital-tech-results.github.io/Public-API-Requests/)
 
 * fetch data from remote URL (mock employee data)
 * display data from remote URL
